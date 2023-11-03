@@ -1,3 +1,3 @@
-# Natural Language Processing
+## Text mining poetry from Langston Hughes
 
-### To attest this script visit the official website: https://poets.org/poem/weary-blues
+#### To confirm the authenticity of the poetry, please visit the official website: https://poets.org/poem/weary-blues.
